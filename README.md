@@ -6,4 +6,4 @@ As mentioned in the paper, a NDA was signed with the participant, preventing us 
 
 A file containing the configuration used for the different models is joined. 
 
-Link to a video example from the dataset : showing three occurences of each hedge classes.
+Link to a video example from the dataset, showing three occurences of each hedge classes: https://www.youtube.com/watch?v=_CbC6t8WeoE (The participants have consented to their recordings being used for illustrative purposes.
